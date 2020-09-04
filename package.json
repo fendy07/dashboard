@@ -14,7 +14,7 @@
   "devDependencies": {
     "cross-env": "^5.2.0",
     "laravel-mix": "^2.1.14",
-    "node-sass": "^4.9.3"
+    "node-sass": "^4.13.1"
   },
   "dependencies": {
     "chart.js": "file:chart/chart.js"
